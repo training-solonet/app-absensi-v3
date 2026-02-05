@@ -1,0 +1,12 @@
+includes:
+    - vendor/larastan/larastan/extension.neon
+
+parameters:
+    paths:
+        - app/Http
+        - routes
+        - database
+    level: 5
+    ignoreErrors:
+        - '#Relation .+ is not found in App\\Models\\.*#'
+
