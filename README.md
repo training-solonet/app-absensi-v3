@@ -1,6 +1,6 @@
 # Sistem Absensi Menggunakan Wajah
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b02c2d97-fc46-416f-8bfd-e10b780e0ee9" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8dd01758-7eb0-4fe0-8998-890df5365ff5" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a76715c3-728e-46b3-bd03-c57295987134" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b9da2e1e-8c6a-41a3-a5f2-7770d8daef38" />
 
 ## 1. Gambaran Umum Proyek
 
